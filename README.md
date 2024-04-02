@@ -115,7 +115,7 @@ sudo chown -R www-data:www-data /var/www/html/admin.meudominio.com/storage
 
 sudo chmod -R 775 /var/www/html/admin.meudominio.com/storage
 
-sudo chown -R www-data.www-data /var/www/admin.meudominio.com/bootstrap/cache
+sudo chown -R www-data.www-data /var/www/html/admin.meudominio.com/bootstrap/cache
 ```
 
 #### Execute os comandos para deploy:
